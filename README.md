@@ -1,9 +1,9 @@
-Sat-1 Spherical Smart Speaker
+<b>Sat-1 Spherical Smart Speaker</b>
 
 A premium, fully local smart speaker designed as a spiritual successor to the Amazon Echo 4th Gen, but built with superior acoustics, thoughtful craftsmanship, and complete privacy.
 
 
-Design Architecture
+<b>Design Architecture</b>
 
 The Sat-1 features a clean three-part modular enclosure:
 
@@ -13,12 +13,14 @@ Top Cap / Module: Contains the Satellite1 main board, upward-firing tweeter, and
 
 Bottom Cap / Module: Houses the passive crossover, LD2450 mmWave presence sensor, and a dedicated 400g weighted compartment for a low center of gravity and premium heft. Also finished in dark charcoal.
 
-Key Specifications
+<b>Key Specifications</b>
+
 Overall Dimensions: 165 mm diameter × 148 mm tall (target)
 Acoustic Chamber: ~3.8–4.0 liters internal volume
 Drivers: Dual opposing Dayton Audio PC83-4 3" full-range woofers + Dayton ND25FW-4 1" waveguide tweeter
 Enclosure: Thick-walled PETG with strategic thinning at driver locations for optimal output
 Sealing: Internal gasketed lips with 1 mm external shadow gaps on top and bottom
 
-Design Philosophy
+<b>Design Philosophy</b>
+
 Inspired by the refined minimalism of Jony Ive and the functional clarity of Dieter Rams, the Sat-1 prioritizes honest engineering, acoustic performance, and timeless aesthetics while remaining fully local and privacy-focused through Home Assistant integration.
