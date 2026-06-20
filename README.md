@@ -21,6 +21,9 @@ Featuring a clean three-part modular enclosure:
 - **Bottom Cap / Module**  
   Houses the passive crossover, LD2450 mmWave presence sensor, and a dedicated ~400g weighted compartment for a low center of gravity and premium heft. Finished in dark charcoal.
 
+- **Assembly System**  
+  The top and bottom modules are secured using a hybrid magnetic + mechanical system. Hidden neodymium magnets provide a satisfying "click" closure and even clamping force, while internal alignment features and minimal screws ensure long-term reliability and easy serviceability.
+
 </br>
 
 ## Key Specifications
