@@ -1,9 +1,12 @@
-<h1>Spherical Smart Speaker</h1>
+<h1>Smart Speaker</h1>
 <p align="justify">
-A premium, fully local smart speaker designed as a spiritual successor to the Amazon Echo 4th Gen, but built with superior acoustics, thoughtful craftsmanship, and complete privacy.</p>
+A premium, fully local smart speaker designed as a spiritual successor to the Amazon Echo 4th Gen, but built with superior acoustics, thoughtful craftsmanship, and complete privacy.</p></br>
 
 
-<h3>Design Architecture</h3>
+<h3>Status: Work in Progress</h3>
+<b>Current focus:</b> Top & Bottom modules</br></br>
+
+</br><h3>Design Architecture</h3>
 
 Featuring a clean three-part modular enclosure:
 <ul>
@@ -19,16 +22,17 @@ Contains the Satellite1 main board (futureproofhomes.net), upward-firing tweeter
 Houses the passive crossover, LD2450 mmWave presence sensor, and a dedicated 400g weighted compartment for a low center of gravity and premium heft. Also finished in dark charcoal.</li></p>
 </ul>
 
-<h3>Key Specifications</h3>
+</br></br><h3>Key Specifications</h3>
 
-<b>Overall Dimensions</b></br>
+<ul><li><b>Overall Dimensions</b></li>
 <p align="justify">
-172 mm diameter × 148 mm tall (target)</br></br>
-<b>Acoustic Chamber</b></br>Currently 2.6 liters internal volume (shooting for 2.8 liters)</br></br>
-<b>Drivers</b></br>Dual opposing Dayton Audio PC83-4 3" full-range woofers + Dayton ND25FW-4 1" waveguide tweeter</br></br>
-<b>Enclosure</b></br>Thick-walled PETG with strategic thinning at driver locations for optimal output</br></br>
-<b>Sealing</b></br>Internal gasketed lips with 1 mm external shadow gaps on top and bottom
+172 mm diameter × 148 mm tall (target)</br>
+<li><b>Acoustic Chamber</b></li>Approximately 2.5 – 2.6 liters (working toward 2.8+ liters)</br>
+<li><b>Drivers</b></li>Dual opposing Dayton Audio PC83-4 3" full-range woofers + Dayton ND25FW-4 1" waveguide tweeter</br>
+<li><b>Enclosure</b></li>Thick-walled PETG with strategic thinning at driver locations for optimal output</br>
+<li><b>Sealing</b></li>Internal gasketed (TPU) lips with 1 mm external shadow gaps on top and bottom</ul</br>
+</ul>
 
-<h3>Design Philosophy</h3>
+</br></br><h3>Design Philosophy</h3>
 <p align="justify">
-Inspired by the refined minimalism of Jony Ive and the functional clarity of Dieter Rams, the Spherical Smart Speaker prioritizes honest engineering, acoustic performance, and timeless aesthetics while remaining fully local and privacy-focused through Home Assistant integration.</p>
+Inspired by the refined minimalism of Jony Ive and the functional clarity of Dieter Rams, the Smart Speaker prioritizes honest engineering, acoustic performance, and timeless aesthetics while remaining fully local and privacy-focused through Home Assistant integration.</p>
