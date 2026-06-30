@@ -15,5 +15,6 @@
 - Polyfill placement and quantity for acoustic damping
 - Exact magnet pocket depth and glue strategy
 - Print orientation and support strategy for barrel halves
+- Whether to use Orca Slicer's "Fuzzy Skin" setting on the barrel or modules (to be decided before final print)
 
-**Latest Update:** Model is at ~88% complete. Major structural work finished.
+**Latest Update:** Model is at ~88% complete. Major structural work finished. Dimpling pattern nearing completion.
